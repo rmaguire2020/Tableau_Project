@@ -1,4 +1,4 @@
-# Top-250-Movies-Analysis-
+# Top-250-Movies-Analysis
 ## Acknowledgements
 
 Team Name: ns_21482_2
