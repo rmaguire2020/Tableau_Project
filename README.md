@@ -1,4 +1,4 @@
-# Top-250-Movies-Analysis
+# Top-250-Movies-Analysis-
 ## Acknowledgements
 
 Team Name: ns_21482_2
@@ -70,11 +70,6 @@ Importance of Question:\
 Manipulations: \
 &emsp;The data included in this graph are the name of the genres and the average ratings for each genre within the top 250 movies data set. The reason the rating is being measured as an average instead of as a median is due to these very specific genres only having a small count of movies. This smaller count is better represented as an average. The graph shown is  filtered to only show genres in which there are more than five movies voted on. 
 
-
-Analysis & Conclusion:\
-&emsp;Overall, the box and whisker plot helped demonstrate how the “Action, Adventure, Fantasy” genre has the least spread and highest average in votes resulting in it being the most popular genre. This indicates that if producers want to make a successful movie they would increase their chances by filming an “Action, Adventure, Fantasy” movie.
-
-![alt text](https://github.com/sevasguerrero/Top-250-Movies-Analysis-/blob/9bcb61c1c9f79993271cb3ac1ba42e2df1f2e700/Screen%20Shot%202023-04-27%20at%2011.25.37%20PM.png)
 
 Analysis & Conclusion:\
 &emsp;Overall, the box and whisker plot helped demonstrate how the “Action, Adventure, Fantasy” genre has the least spread and highest average in votes resulting in it being the most popular genre. This indicates that if producers want to make a successful movie they would increase their chances by filming an “Action, Adventure, Fantasy” movie.
