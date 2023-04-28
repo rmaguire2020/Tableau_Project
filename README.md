@@ -1,4 +1,3 @@
-# Tableau_Project
 # Top-250-Movies-Analysis-
 ## Acknowledgements
 
